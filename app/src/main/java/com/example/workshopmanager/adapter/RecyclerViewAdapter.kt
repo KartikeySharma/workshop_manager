@@ -21,7 +21,7 @@ class RecyclerViewAdapter(val contextParam: Context) : RecyclerView.Adapter<Recy
 
     private val name = arrayOf(
         "Android Development",
-        "Web Development2",
+        "Web Development",
         "C++ and C Workshop",
         "Video Editing",
         "Elementary French",
@@ -30,13 +30,13 @@ class RecyclerViewAdapter(val contextParam: Context) : RecyclerView.Adapter<Recy
     )
 
     private val date = arrayOf(
-        "20:00 18th May, 2021",
-        "20:00 18th May, 2021",
-        "20:00 18th May, 2021",
-        "20:00 18th May, 2021",
-        "20:00 18th May, 2021",
-        "20:00 18th May, 2021",
-        "10:00 30th May, 2021"
+        "1:00 pm 1th July, 2021",
+        "2:00 pm 2th July, 2021",
+        "3:00 pm 4th July, 2021",
+        "4:00 pm 5th July, 2021",
+        "2:00 pm 5th July, 2021",
+        "1:00 pm 6th July, 2021",
+        "4:00 pm 8th July, 2021"
     )
 
     private val btn = arrayOf(
