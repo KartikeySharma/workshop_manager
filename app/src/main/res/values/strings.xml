@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Workshop Manager</string>
+    <string name="shared_preferences">WorkshopPreference</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mobile_number_10_digits">Enter Phone Number</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">"Forgot Password? "</string>
+    <string name="Password">Enter Password</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account? Sign up now.</string>
+    <string name="register">Register</string>
+    <string name="register_yourself">"Register Yourself "</string>
+    <string name="name_min_3_characters">Enter your Name (Min 3 characters)</string>
+    <string name="email_address">Enter your email id</string>
+    <string name="delivery_address">Enter your Address</string>
+    <string name="password_min_4_digits">Enter Password (Min 4 digits)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="kartikey_sharma">Kartikey Sharma</string>
+    <string name="default_number">+91-1234567890</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="apply">Apply</string>
+    <string name="date">Date</string>
+    <string name="event_name">Event Name</string>
+    <string name="workshop_manager">Workshop Manager</string>
+    <string name="registered">Registered</string>
+    <string name="all_available_workshops">All Available Workshops</string>
+    <string name="view_all_workshops">View all Workshops</string>
+    <string name="submit">Submit</string>
+    <string name="new_password_min_4_digits">Enter New Password (Min 4 Characters)</string>
+    <string name="otp_4_characters">Enter OTP</string>
+    <string name="enter_the_otp_received_below">Enter the OTP Recieved Below</string>
+    <string name="next">Next</string>
+    <string name="otp_will_be_send_to_the_registered_email">The OTP will be sent to the registered email</string>
+    <string name="enter_the_following_details">Enter the following details</string>
+</resources>

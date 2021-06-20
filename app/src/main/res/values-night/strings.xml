@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shared_preferences">WorkshopPreference</string>
+    <string name="mobile_number_10_digits">Enter Phone Number</string>
+</resources>
