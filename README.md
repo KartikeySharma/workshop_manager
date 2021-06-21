@@ -1,8 +1,6 @@
 # Workshop Manager App
 Android App for viewing and registering for workshops made using Kotlin and XML.
 
-The app was made as an assignment for being the Android Teaching Assistant Internship position.
-
 The app uses GET and POST requests through the Volley library for Login, Register and Forgot Password Features.
 The app uses Internshala Trainings Server for login functionality
 The app also uses the Room library to send data to the SQLite local database and retrieve the information about the Workshop details.
