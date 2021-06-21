@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="250" height="250" src="https://github.com/KartikeySharma/workshop_manager/blob/master/app/src/main/res/drawable/logo.png">
+</p>
+
 # Workshop Manager App
 Android App for viewing and registering for workshops made using Kotlin and XML.
 
